@@ -1,4 +1,6 @@
-# Workshop sobre refatoração
+# Projeto realizado no Labs da Digital Innovation One
+
+### Refatorando uma API HTTP de forma segura desenvolvida em Python
 
 Toda pessoa que trabalha com software já passou, ou vai passar, pela experiência de adicionar/alterar funcionalidades de um sistema que está no ar. Com isso ela se vê em contato com uma base de código existente, produzida por uma outra equipe.
 
